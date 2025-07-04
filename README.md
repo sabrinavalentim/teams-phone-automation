@@ -24,4 +24,4 @@ Este repositório contém dois scripts PowerShell com interface gráfica para fa
  
 ## Autor
  
-Este projeto foi criado por [Sabrina Santos] com o objetivo de automatizar e simplificar rotinas de administração do Microsoft Teams em ambientes corporativos.
+Este projeto foi criado por [sabrinavalentim] com o objetivo de automatizar e simplificar rotinas de administração do Microsoft Teams em ambientes corporativos.
